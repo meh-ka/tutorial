@@ -1,2 +1,4 @@
 .*tmp
 log.txt
+
+tmp/log_backup.txt

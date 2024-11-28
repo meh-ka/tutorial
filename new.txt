@@ -1,2 +1,3 @@
 git est un système de gestion de versions trés répondu.
 il a été créé par Linus Torvalds en 2005.
+*Suivi des personnes ayant apporté des modifications.

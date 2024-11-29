@@ -1,3 +1,3 @@
-Git n'est pas la même chose que GitHub
+1-Git n'est pas la même chose que GitHub
 
-GitHub crée des outils qui utilisent Git
+2-GitHub crée des outils qui utilisent Git

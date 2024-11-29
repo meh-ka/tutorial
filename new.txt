@@ -4,3 +4,7 @@ il est utilisé pour:
 * Suivi des modifications du code.
 *Suivi des personnes ayant apporté des modifications.
 * Collaboration au codage 
+Gérer des projets avec des référentiels
+Cloner un projet pour travailler sur une copie locale
+Contrôlez et suivez les modifications avec Staging et Commiting
+Brancher et fusionner pour permettre de travailler sur différentes parties et versions d'un projet
